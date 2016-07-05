@@ -1,0 +1,18 @@
+Computer science is the study of problems, problem-solving, and the solutions that come out of the problem-solving process. Given a problem, a computer scientist’s goal is to develop an algorithm, a step-by-step list of instructions for solving any instance of the problem that might arise. Algorithms are finite processes that if followed will solve the problem. Algorithms are solutions.
+
+procedural abstraction is theprocess that hides the details of a particular function to allow the user or client to view it at a very high level.
+ 
+Programming is often the way that we create a representation for our solutions
+
+Data abstraction or an  abstract data type/ADT 
+It is a logical description of how we view the data and the operations that are allowed without regard to how they will be implemented.
+Logical representation of data from the user's point of view...
+while data structures are concrete representation of data from the implementer's point of view. it is the same as information hiding.
+>> information hiding is the hiding of implementation details from a user
+
+
+In computer science, a data structure is a particular way of organizing data in a computer so that it can be used efficiently.
+also.. a data structure is the implementation of an abstract data type
+
+Why study algorithms?
+So that we can learn analysis techniques that allow us to compare and contrast solutions based solely on their own characteristics, not the characteristics of the program or computer used to implement them.

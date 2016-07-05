@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"bubbleSort"
+			],
+			[
+				"test",
+				"test_manipulate_list"
+			],
+			[
+				"d",
+				"dataStructuret"
+			],
+			[
+				"fr",
+				"fruit"
+			],
+			[
+				"frui",
+				"fruits"
+			],
+			[
+				"e",
+				"elif"
+			],
+			[
+				"m",
+				"multiply"
+			],
+			[
+				"foo",
+				"food"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"ar",
+				"arg1"
+			],
+			[
+				"a",
+				"arg1"
+			],
+			[
+				"arg",
+				"arg1"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"sr",
+				"script	Tag"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"food",
+				"foodsarray"
+			],
+			[
+				"mys",
+				"mysql_error"
+			],
+			[
+				"row",
+				"mysql_fetch_row"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"border-r",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Anne/AppData/Roaming/Sublime Text 3/Packages/Python Flake8 Lint/Flake8Lint.sublime-settings",
+		"/C/Users/Anne/Desktop/pyfiles/sum.py",
+		"/C/xampp/htdocs/brokenhungry/styles/style.css",
+		"/C/xampp/htdocs/brokenhungry/db_connect.php",
+		"/C/xampp/htdocs/brokenhungry/js/jquery-1.10.2.js",
+		"/C/xampp/htdocs/brokenhungry/js/jquery-ui.js",
+		"/C/xampp/htdocs/brokenhungry/styles/jquery-ui.css",
+		"/C/xampp/htdocs/brokenhungry/js/slider.js",
+		"/C/Users/Anne/Desktop/pyfiles/txt.py",
+		"/C/Users/Anne/Desktop/pyfiles/tx5.py",
+		"/C/Users/Anne/Desktop/pyfiles/test.py",
+		"/C/Users/Anne/Desktop/pyfiles/tx7.py",
+		"/C/Users/Anne/Desktop/pyfiles/hero.py",
+		"/C/Users/Anne/Desktop/pyfiles/1.py",
+		"/C/Users/Anne/Desktop/pyfiles/hello.py",
+		"/C/Users/Anne/Desktop/pyfiles/chat.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex2.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex3.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex4.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex5.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex6.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex7.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex8.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex9.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex14.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex15.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex17.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex18.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex19.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex20.py",
+		"/C/xampp/htdocs/brokenhungry/index.htm",
+		"/C/Users/Anne/Desktop/pyfiles/sample_text.txt",
+		"/C/Users/Anne/Desktop/pyfiles/ex11.py",
+		"/C/Users/Anne/Desktop/pyfiles/ex10.py",
+		"/C/Users/Anne/Desktop/ChatModal.po",
+		"/C/Users/Anne/Desktop/chat.po",
+		"/C/Users/Anne/Desktop/ChatModalSeleccion.po",
+		"/C/Users/Anne/Desktop/ayuda.po",
+		"/D/Projects/Projects/New designs/final/po files/old/AboutUs.po",
+		"/C/Users/Anne/Desktop/serGuru.po",
+		"/C/Users/Anne/Desktop/comoFunciona.po",
+		"/D/Projects/Projects/New designs/final/po files/old/Calendario.po",
+		"/D/Projects/Projects/New designs/final/po files/New folder/cookies.po",
+		"/D/Projects/Projects/New designs/final/po files/New folder/PopupValoraciónAlumno.po",
+		"/D/Projects/Projects/New designs/final/po files/New folder/PopupValoraciónGurú.po",
+		"/D/Projects/Projects/New designs/final/po files/New folder/ResultadoVacio.po",
+		"/D/Projects/Projects/New designs/final/po files/New folder/MisTrabajos.po",
+		"/D/Projects/Projects/New designs/final/po files/profile_Comentarios.po",
+		"/D/Projects/Projects/New designs/final/new extracts/newpofiles/perfil7.po",
+		"/D/Projects/Projects/New designs/final/new extracts/newpofiles/perfil6.po",
+		"/D/Projects/Projects/New designs/final/new extracts/newpofiles/perfil5-2.po",
+		"/D/Projects/Projects/New designs/final/new extracts/newpofiles/perfil5-1.po",
+		"/D/Projects/Projects/New designs/final/new extracts/newpofiles/perfil4.po",
+		"/D/Projects/Projects/New designs/final/po files/perfil8.po",
+		"/D/Projects/Projects/New designs/final/po files/perfil9.po",
+		"/D/Projects/Projects/New designs/final/po files/profile_Dias.po",
+		"/D/Projects/Projects/New designs/final/po files/profile_Horas.po",
+		"/D/Projects/Projects/New designs/final/po files/registro_Desktop.po",
+		"/D/Projects/Projects/New designs/final/po files/perfil3_PorPersona.po",
+		"/D/Projects/Projects/New designs/final/po files/perfil3_AmbosPuntos.po",
+		"/D/Projects/Projects/New designs/final/po files/perfil5-3.po",
+		"/D/Projects/Projects/New designs/final/po files/perfil2.po",
+		"/D/Projects/Projects/New designs/final/po files/perfil1.po",
+		"/D/Projects/Projects/New designs/final/po files/MisTrabajosImporteExtra.po",
+		"/D/Projects/Projects/New designs/final/po files/MisTrabajos.po",
+		"/D/Projects/Projects/New designs/final/po files/MisAnuncios.po",
+		"/D/Projects/Projects/New designs/final/po files/login_Desktop.po",
+		"/D/Projects/Projects/New designs/final/po files/ipad-spotGuru.po",
+		"/D/Projects/Projects/New designs/final/po files/ipad-login.po",
+		"/D/Projects/Projects/New designs/final/po files/Desktop_AltaGuru.po",
+		"/D/Projects/Projects/New designs/final/po files/Calendario.po",
+		"/D/Projects/Projects/New designs/final/po files/AboutUs.po",
+		"/D/Projects/Projects/New designs/final/po files/booking.po",
+		"/C/xampp/htdocs/broke&hungry/index.htm",
+		"/D/Projects/Projects/New designs/final/po files/contactoDesktop.po",
+		"/C/Users/Anne/Desktop/sites/1.html",
+		"/D/Projects/Projects/New designs/final/po files/profile.po",
+		"/D/Projects/Projects/New designs/final/po files/ResultsMap.po",
+		"/D/Projects/workshop/www/js/app.js",
+		"/C/Users/Anne/Desktop/sites/ph.html",
+		"/C/Users/Anne/Desktop/sites/program.js",
+		"/D/Projects/workshop/www/js/services/websql/EmployeeService.js",
+		"/D/Projects/workshop/www/js/services/memory/EmployeeService.js",
+		"/D/Projects/workshop/www/js/services/localstorage/EmployeeService.js",
+		"/D/Projects/workshop/www/js/services/json/EmployeeService.js",
+		"/C/Users/Anne/Desktop/sites/a.html",
+		"/C/Users/Anne/Desktop/sites/program.html",
+		"/D/Projects/workshop/www/index.html",
+		"/C/Program Files/Android/Android Studio/bin/idea.properties",
+		"/C/Users/Anne/Desktop/brokeandhungry.ug/code/styles/style.css",
+		"/C/Users/Anne/Desktop/brokeandhungry.ug/code/js/jquery-1.10.2.js",
+		"/C/Users/Anne/Desktop/brokeandhungry.ug/code/js/slider.js",
+		"/C/Users/Anne/Desktop/brokeandhungry.ug/code/styles/jquery-ui.css",
+		"/C/Users/Anne/Desktop/brokeandhungry.ug/code/js/jquery-ui.js",
+		"/C/Users/Anne/Desktop/brokeandhungry.ug/code/index.htm",
+		"/C/Users/Anne/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Anne/Desktop/brokeandhungry.ug/code/index2.html",
+		"/C/Users/Anne/Desktop/brokeandhungry.ug/code/index"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"i",
+			"slider-h",
+			"he's",
+			"max",
+			"slider-range-min"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ex3.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
